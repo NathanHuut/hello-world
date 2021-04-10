@@ -1,4 +1,6 @@
-﻿using System.Collections;
+//Inside of Block game object
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
